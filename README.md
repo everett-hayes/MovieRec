@@ -8,7 +8,7 @@ This algorithm deals with accepting a choice of the user's favorite movies and r
 
 ## How to use?
 
-A basic code editor that recognizes JAVA is required. There are 7 java class files and a JSON data set that are required for the user to implement the program. The 'matrix' class contains a String where the user should enter their local filepath of the JSON dataset in order for the class to read it. 
+A basic code editor that recognizes JAVA is required. There are 4 java class files and a JSON data set that are required for the user to implement the program. The 'matrix' class contains a String where the user should enter their local filepath of the JSON dataset in order for the class to read it. 
 
 After running the code, a GUI will pop up. The user will be given a random selection of movies among which they will choose their favorites. Based on their selections, they are provided a list of 5 movies that they are sure to enjoy!
 
