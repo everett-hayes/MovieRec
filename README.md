@@ -46,5 +46,5 @@ The top 5 similar movies are then displayed to the user.
 
 ## Development Team
 
-This project was developed by Himanshu Bainwala, Rayaan Attari and Everett Hayes in the JAVA environment as the final project for CSC: Object Oriented Programming at Grinnell College.
+This project was developed by Himanshu Bainwala, Rayaan Attari, and Everett Hayes in the JAVA environment as the final project for CSC: Object Oriented Programming at Grinnell College.
 
